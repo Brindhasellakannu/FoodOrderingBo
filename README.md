@@ -15,6 +15,33 @@ This project is a Food Ordering Chatbot developed using Google Dialogflow. It al
 - Natural Language Processing (NLP)
 - Intents and Entities
 
+## Project Workflow
+
+1. User starts a conversation with the chatbot.
+2. Dialogflow identifies the user's intent.
+3. Entities extract important information such as food items and quantities.
+4. The chatbot collects the required order details.
+5. The chatbot provides a response to the user.
+
+## Sample Conversation
+
+**Bot:** Hello! Welcome to our food ordering service.
+
+**User:** I want to order pizza.
+
+**Bot:** Great choice! How many pizzas would you like?
+
+**User:** Two.
+
+**Bot:** Great! Your quantity has been noted.
+
+## Future Improvements
+
+- Add more food categories.
+- Integrate a real-time database.
+- Implement online payment functionality.
+- Improve conversational responses.
+
 ## Project Objective
 The main objective of this project is to create a simple and interactive chatbot that makes the food ordering process easier through conversational interactions.
 
