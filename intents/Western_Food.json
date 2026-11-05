@@ -1,0 +1,50 @@
+{
+  "id": "cd5b83c3-05a2-45ce-a8a4-eb21f30a47ab",
+  "name": "Western_Food",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "168ebb66-4753-400c-88e1-dfada2ce0392",
+          "name": "food_category",
+          "required": false,
+          "dataType": "@Food_Category",
+          "value": "$food_category",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is our Western Food menu! 🍕\n\n1. Margherita Pizza\n2. Alfredo Pasta\n3. Grilled Sandwich\n4. Mac and Cheese\n5. Chicken Steak\n6. Garlic Bread\n\nWhich dish would you like to order?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

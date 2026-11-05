@@ -1,0 +1,56 @@
+[
+  {
+    "value": "South Indian",
+    "synonyms": [
+      "South Indian",
+      "South Indian food, dosa, idli"
+    ]
+  },
+  {
+    "value": "North Indian",
+    "synonyms": [
+      "North Indian",
+      "North Indian food, paneer"
+    ]
+  },
+  {
+    "value": "Chinese",
+    "synonyms": [
+      "Chinese",
+      "Chinese food, noodles, fried rice"
+    ]
+  },
+  {
+    "value": "Fast Food",
+    "synonyms": [
+      "Fast Food",
+      "burger, pizza, fast food"
+    ]
+  },
+  {
+    "value": "Snacks",
+    "synonyms": [
+      "snacks, fries"
+    ]
+  },
+  {
+    "value": "Sweets",
+    "synonyms": [
+      "sweets, desserts"
+    ]
+  },
+  {
+    "value": "Thai Food",
+    "synonyms": [
+      "Thai Food",
+      "Thai, Thai cuisine"
+    ]
+  },
+  {
+    "value": "Western Food",
+    "synonyms": [
+      "Western Food",
+      "Western, pasta"
+    ]
+  }
+]

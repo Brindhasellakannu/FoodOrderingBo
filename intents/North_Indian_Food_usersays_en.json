@@ -1,0 +1,117 @@
+[
+  {
+    "id": "7dd26a6f-05de-4063-b55e-65acba16eaa1",
+    "data": [
+      {
+        "text": "Show ",
+        "userDefined": false
+      },
+      {
+        "text": "North Indian",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cce2885f-ea4f-41e8-b23e-7270bdebaa9d",
+    "data": [
+      {
+        "text": "I would like to order ",
+        "userDefined": false
+      },
+      {
+        "text": "North Indian",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b639ab48-df94-434e-89ef-f9b5a2f965f8",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "North Indian",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " food do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78000cf0-a555-4773-8926-110d7f4b2ceb",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "North Indian",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " dishes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5617d17a-9c83-49d9-ad2b-a781df49beb4",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "North Indian",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

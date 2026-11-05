@@ -1,0 +1,67 @@
+[
+  {
+    "id": "aa707d22-cc7d-4c4f-8c25-f574b572af81",
+    "data": [
+      {
+        "text": "Tell me your restaurant details",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "17cd611b-75ea-40e6-83eb-8b6f37dece3a",
+    "data": [
+      {
+        "text": "Do you provide home delivery?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "549c735e-f7bb-4456-8dfe-0c7a4fa8c870",
+    "data": [
+      {
+        "text": "What are your opening hours?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b6c36af2-50e1-4084-8b26-6c922a0c1643",
+    "data": [
+      {
+        "text": "Where is your restaurant located?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3acfff33-702b-4190-8a02-58f8231331c6",
+    "data": [
+      {
+        "text": "Tell me about your restaurant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

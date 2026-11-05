@@ -1,0 +1,50 @@
+{
+  "id": "e629a409-5051-4d02-88e4-871ab2690ea5",
+  "name": "Chinese_Food",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2794b85c-a92c-42a3-98b5-aaa214f16343",
+          "name": "food_category",
+          "required": false,
+          "dataType": "@Food_Category",
+          "value": "$food_category",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is our Chinese Food menu! 🍜\n\nChicken Fried Rice\n\nVeg Fried Rice\n\nHakka Noodles\n\nGobi Manchurian\n\nSpring Rolls\n\nWhich dish would you like to order?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

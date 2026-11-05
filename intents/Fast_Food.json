@@ -1,0 +1,50 @@
+{
+  "id": "04462d30-23b0-48b0-a71f-ba5f3d5808ca",
+  "name": "Fast_Food",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b159dd15-59b8-46ed-8400-907f5e53e7ac",
+          "name": "food_category",
+          "required": false,
+          "dataType": "@Food_Category",
+          "value": "$food_category",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is our Fast Food menu! 🍔\n\n1. Classic Burger\n2. French Fries\n3. Chicken Nuggets\n4. Veg Pizza\n5. Chicken Sandwich\n6. Cheese Burger\n\nWhich item would you like to order?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

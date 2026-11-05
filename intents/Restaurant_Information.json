@@ -1,0 +1,39 @@
+{
+  "id": "376fad12-278b-48f2-97b2-62475b956e84",
+  "name": "Restaurant_Information",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Welcome to FoodOrderingBot! 🍽️",
+            "We offer a variety of delicious meals, including Indian, Chinese, Thai and Western food.",
+            "We provide food ordering assistance and simulated order confirmations.",
+            "Our opening hours are 9 AM to 10 PM.",
+            "Thank you for choosing us!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

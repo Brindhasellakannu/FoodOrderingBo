@@ -1,0 +1,38 @@
+{
+  "id": "c88d0c18-cd33-4c0f-b2b3-0d383a17bb6d",
+  "name": "Order_Status",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you for checking with FoodOrderingBot! 😊",
+            "Your order status cannot be tracked in real time in this demo.",
+            "Please contact our support team for the latest update.",
+            "Thank you for your patience! ❤️"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "2bb2a75c-28b5-49b8-9f44-c074d5ed55e3",
+    "data": [
+      {
+        "text": "Place my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bbcd3e5c-d379-4332-ac4d-a2889ef61022",
+    "data": [
+      {
+        "text": "Yes, please proceed",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f00febee-2fb9-48cd-b134-2d13fa1f911e",
+    "data": [
+      {
+        "text": "I want to place the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df88af1d-3771-4f41-b716-a8a04e5cb5bd",
+    "data": [
+      {
+        "text": "Confirm my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6cbd171d-574f-4936-a9a7-10a6de17a71e",
+    "data": [
+      {
+        "text": "Yes, confirm my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

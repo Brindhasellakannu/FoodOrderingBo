@@ -1,0 +1,79 @@
+{
+  "id": "cc2c704e-b469-485e-8025-f996a02ef70b",
+  "name": "Select_Food_Item",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "order_details",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "82653078-178d-411a-9059-a33905948c2b",
+          "name": "food_item",
+          "required": true,
+          "dataType": "@Food_Item",
+          "value": "$food_item",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What food item would you like to order?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "eff87178-65ef-4bbf-a81b-2f452b0c93c9",
+          "name": "quantity",
+          "required": true,
+          "dataType": "@sys.number",
+          "value": "$quantity",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How many would you like to order?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great choice! 😋 Your quantity has been noted."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "06293813-a060-4e55-ac5d-cbf1057184ba",
+  "name": "Snacks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "866ada73-15da-4dc9-a025-e0d52aa416ae",
+          "name": "Food_Category",
+          "required": false,
+          "dataType": "@Food_Category",
+          "value": "$Food_Category",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is our Snacks menu! 🍟\n\n1. French Fries\n2. Cheese Balls\n3. Onion Rings\n4. Potato Wedges\n5. Chicken Popcorn\n6. Veg Sandwich\n\nWhich snack would you like to order?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

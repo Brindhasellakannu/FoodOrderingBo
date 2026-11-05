@@ -1,0 +1,80 @@
+[
+  {
+    "id": "b4d978a6-f198-42da-afb1-b9051061c60e",
+    "data": [
+      {
+        "text": "Stop my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9d6a38e5-38a4-427c-a0f1-34dff7c0ba3b",
+    "data": [
+      {
+        "text": "Can I cancel my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dee9222b-e232-48e8-bb79-ec37859737a7",
+    "data": [
+      {
+        "text": "I don\u0027t want this order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "64503e51-43f7-4b8e-a487-53f4f43ab7f4",
+    "data": [
+      {
+        "text": "Please cancel my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2d018780-d978-42b6-a960-d4b54773873b",
+    "data": [
+      {
+        "text": "Cancel my food order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4f9ccf1a-9056-4bff-9327-b803cee8f09c",
+    "data": [
+      {
+        "text": "I want to cancel my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

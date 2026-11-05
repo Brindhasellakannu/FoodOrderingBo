@@ -1,0 +1,80 @@
+[
+  {
+    "id": "436e10bc-1334-4bb1-a6ab-97e6d0243b02",
+    "data": [
+      {
+        "text": "Track my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8783a9c-521f-423a-8e36-c348746fbfa2",
+    "data": [
+      {
+        "text": "Is my food on the way?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0fd68be7-ed17-42a6-a3db-9b1e45379535",
+    "data": [
+      {
+        "text": "Has my order been confirmed?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "99addf49-529a-4062-9bde-a0fce1fc7be0",
+    "data": [
+      {
+        "text": "What is the status of my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c8595477-9991-4e31-af15-4934f64f8437",
+    "data": [
+      {
+        "text": "Check my order status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d70aba1-d026-4130-9394-5f4273976136",
+    "data": [
+      {
+        "text": "Where is my order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

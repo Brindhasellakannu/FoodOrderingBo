@@ -1,0 +1,50 @@
+{
+  "id": "04ba1aa1-e8a6-43dc-af4e-3d27c472a95d",
+  "name": "Explore_Menu",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7483e29c-743f-41cb-b023-2d49b0b3f453",
+          "name": "Food_Category",
+          "required": false,
+          "dataType": "@Food_Category",
+          "value": "$Food_Category",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is our FoodOrderingBot menu! 🍽️\n\nPlease choose your favourite food category:\n\nSouth Indian Food 🍛\n\nNorth Indian Food 🥘\n\nChinese Food 🍜\n\nFast Food 🍔\n\nSnacks 🍟\n\nSweets 🍰\n\nThai Food 🍲\n\nWestern Food 🍕\n\nWhich category would you like to explore?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

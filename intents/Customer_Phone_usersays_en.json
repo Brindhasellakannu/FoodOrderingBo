@@ -1,0 +1,78 @@
+[
+  {
+    "id": "4a2db4a1-857c-4eeb-a452-3a1394dbb8cb",
+    "data": [
+      {
+        "text": "Call me at ",
+        "userDefined": false
+      },
+      {
+        "text": "9876543210",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "843aec80-69f6-4717-a9d0-9057586a6571",
+    "data": [
+      {
+        "text": "My mobile number is ",
+        "userDefined": false
+      },
+      {
+        "text": "9876543210",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ace96aba-3d0b-4021-ae56-70b3865c7632",
+    "data": [
+      {
+        "text": "You can contact me at ",
+        "userDefined": false
+      },
+      {
+        "text": "9876543210",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dba4469d-6d51-49ae-b3a2-25d38b44de50",
+    "data": [
+      {
+        "text": "My phone number is ",
+        "userDefined": false
+      },
+      {
+        "text": "9876543210",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

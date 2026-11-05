@@ -1,0 +1,132 @@
+[
+  {
+    "id": "9f6def55-136e-4641-a7e1-a7345d009109",
+    "data": [
+      {
+        "text": "Can I see your ",
+        "userDefined": false
+      },
+      {
+        "text": "fast food",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " options?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35fd2f76-5f5d-45af-b0a3-c663622a1388",
+    "data": [
+      {
+        "text": "Show ",
+        "userDefined": false
+      },
+      {
+        "text": "fast food",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93c83888-cd45-4d2b-95c5-564077d029b7",
+    "data": [
+      {
+        "text": "I would like to order ",
+        "userDefined": false
+      },
+      {
+        "text": "fast food",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9913932-52b3-43a9-a409-d620dbf86b22",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "fast food",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c1ed27b-c377-4cb2-8886-59e10a2193a0",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "fast food",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "68928c57-c431-4ebe-a04f-86ecd831a0f3",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "fast food",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

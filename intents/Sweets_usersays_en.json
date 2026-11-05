@@ -1,0 +1,105 @@
+[
+  {
+    "id": "6883ba48-7274-4c07-8d2a-6980c5e04817",
+    "data": [
+      {
+        "text": "Show me the ",
+        "userDefined": false
+      },
+      {
+        "text": "sweets",
+        "meta": "@Food_Category",
+        "alias": "Food_Category",
+        "userDefined": true
+      },
+      {
+        "text": " menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a2ea7e82-5c98-40f0-ab83-8635828b3a71",
+    "data": [
+      {
+        "text": "I would like to order ",
+        "userDefined": false
+      },
+      {
+        "text": "sweets",
+        "meta": "@Food_Category",
+        "alias": "Food_Category",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb564333-0471-4e74-96f2-c75e8613dc9b",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "sweets",
+        "meta": "@Food_Category",
+        "alias": "Food_Category",
+        "userDefined": true
+      },
+      {
+        "text": " do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79149fe7-9e81-4b3a-ac82-9a0c0f66b65a",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "sweets",
+        "meta": "@Food_Category",
+        "alias": "Food_Category",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9588a2c9-1c25-42ca-b1ba-f805987e3cf3",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "sweets",
+        "meta": "@Food_Category",
+        "alias": "Food_Category",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

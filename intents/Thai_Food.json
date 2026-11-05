@@ -1,0 +1,50 @@
+{
+  "id": "746af4fc-4f09-43a4-9cab-ab194c59586d",
+  "name": "Thai_Food",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9e0f4970-40c4-4f67-b254-91611a7dc5f1",
+          "name": "food_category",
+          "required": false,
+          "dataType": "@Food_Category",
+          "value": "$food_category",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is our Thai Food menu! 🇹🇭\n\nPad Thai\n\nThai Green Curry\n\nTom Yum Soup\n\nThai Basil Fried Rice\n\nMango Sticky Rice\n\nThai Spring Rolls\n\nWhich dish would you like to order?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

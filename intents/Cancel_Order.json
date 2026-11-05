@@ -1,0 +1,43 @@
+{
+  "id": "514a61d5-1c3e-4e40-81d2-f92cfedcd2e6",
+  "name": "Cancel_Order",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "order_cancelled",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "We\u0027re sorry to hear that you want to cancel your order. 😔",
+            "Your cancellation request has been received.",
+            "Please contact our support team for further assistance.",
+            "Thank you!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

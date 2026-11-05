@@ -1,0 +1,128 @@
+[
+  {
+    "id": "74c985de-20c8-4e63-a059-851815063384",
+    "data": [
+      {
+        "text": "Can I see your ",
+        "userDefined": false
+      },
+      {
+        "text": "snack",
+        "meta": "@Food_Category",
+        "alias": "Food_Category",
+        "userDefined": true
+      },
+      {
+        "text": " options?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3d852ed7-bde4-405a-b71e-1d7b6f929284",
+    "data": [
+      {
+        "text": "Show ",
+        "userDefined": false
+      },
+      {
+        "text": "snack",
+        "meta": "@Food_Category",
+        "alias": "Food_Category",
+        "userDefined": true
+      },
+      {
+        "text": " menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "202b39a1-fc88-42b7-81e7-afabc7ea51bd",
+    "data": [
+      {
+        "text": "I would like to order ",
+        "userDefined": false
+      },
+      {
+        "text": "snacks",
+        "meta": "@Food_Category",
+        "alias": "Food_Category",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b70cbcf4-231e-4fc1-8fda-0b74f04458a7",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "snacks",
+        "meta": "@Food_Category",
+        "alias": "Food_Category",
+        "userDefined": true
+      },
+      {
+        "text": " do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dee0ed53-c7fe-4bc6-b98f-f71b3d2a3eb5",
+    "data": [
+      {
+        "text": "Show me your ",
+        "userDefined": false
+      },
+      {
+        "text": "snacks",
+        "meta": "@Food_Category",
+        "alias": "Food_Category",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d04865fb-7bf5-48e2-abc7-e71e48c02be2",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "snacks",
+        "meta": "@Food_Category",
+        "alias": "Food_Category",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "id": "1d817681-3a22-44ba-8bcc-172710a3acc8",
+  "name": "Customer_Name",
+  "auto": true,
+  "contexts": [
+    "order_details"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "customer_details",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e3b6f902-ffbc-479d-9c81-424aeecf522b",
+          "name": "customer_name",
+          "required": true,
+          "dataType": "@sys.person",
+          "value": "$customer_name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "May I know your name, please?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you! Nice to meet you. 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

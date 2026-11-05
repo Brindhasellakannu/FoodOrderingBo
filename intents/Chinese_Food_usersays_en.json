@@ -1,0 +1,109 @@
+[
+  {
+    "id": "c556fc90-15da-4d0f-8736-edba0b87a375",
+    "data": [
+      {
+        "text": "Show ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5756ac77-f096-4166-b0fc-f5936c1dbb29",
+    "data": [
+      {
+        "text": "I would like to order ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese food",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45826919-3250-44e2-bb3d-fcd1f3ff19fa",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " food do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2848654-1fe8-4e03-a586-b00db07b0b25",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " dishes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ccbb725-18f6-4b7f-b17a-d426f469bc50",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese food",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

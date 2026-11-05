@@ -1,0 +1,62 @@
+{
+  "id": "c93fc6ac-8e1c-4688-971d-5dd995a2a852",
+  "name": "Delivery_Address",
+  "auto": true,
+  "contexts": [
+    "phone_details"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "address_details",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "76e6d98e-7f3d-4828-9955-17e16b5a7173",
+          "name": "delivery_address",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$delivery_address",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please enter your complete delivery address, including your building name and apartment or villa number."
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you! Your delivery address has been received. 😊"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

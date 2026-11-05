@@ -1,0 +1,39 @@
+{
+  "id": "9f932429-b8b0-4c7b-906d-2ed08fa5d762",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Welcome to FoodOrderingBot! 🍔\n\nI\u0027m your virtual food assistant.\n\nWhat would you like today?\n\n1. Explore our menu\n2. Place an order\n3. Know about our restaurant\n4. Check my order status\n5. Cancel my order\n6. Contact support"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

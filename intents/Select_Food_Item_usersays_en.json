@@ -1,0 +1,139 @@
+[
+  {
+    "id": "ec3a2307-07b9-4e6e-abbd-b6ed9c7339b7",
+    "data": [
+      {
+        "text": "I want two ",
+        "userDefined": false
+      },
+      {
+        "text": "idlis",
+        "meta": "@Food_Item",
+        "alias": "food_item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "21b25d7f-d6c1-4367-b8aa-e57e699b184e",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "Pad Thai",
+        "meta": "@Food_Item",
+        "alias": "food_item",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1fb2cb5-9b16-4072-9863-b9f41c24a0fa",
+    "data": [
+      {
+        "text": "I would like to have ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@Food_Item",
+        "alias": "food_item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cb34fb31-5052-47d6-a44a-01fd5f49c481",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken fried rice",
+        "meta": "@Food_Item",
+        "alias": "food_item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e02ddf1f-e45c-46b0-8326-de4d0049aa73",
+    "data": [
+      {
+        "text": "Give me a ",
+        "userDefined": false
+      },
+      {
+        "text": "burger",
+        "meta": "@Food_Item",
+        "alias": "food_item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "43e66651-7a71-4672-abbc-17a909f0682f",
+    "data": [
+      {
+        "text": "I would like to order ",
+        "userDefined": false
+      },
+      {
+        "text": "dosa",
+        "meta": "@Food_Item",
+        "alias": "food_item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "efc07b82-00cf-47d9-a09f-d1114a869b7a",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "fried rice",
+        "meta": "@Food_Item",
+        "alias": "food_item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

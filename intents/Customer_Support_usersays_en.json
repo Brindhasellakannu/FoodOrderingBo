@@ -1,0 +1,67 @@
+[
+  {
+    "id": "cf7e79c9-a683-421c-88f0-29a97b1bd9fd",
+    "data": [
+      {
+        "text": "I need assistance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c074fb2-fac6-489a-9923-a3e8ba9b4b27",
+    "data": [
+      {
+        "text": "Can I speak to support?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c9a0061-58ee-464c-96f7-f5741a6cd1f4",
+    "data": [
+      {
+        "text": "I have a problem with my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5878a2eb-06d5-472d-bc8e-60b3f169ceda",
+    "data": [
+      {
+        "text": "Contact customer support",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2c07f913-2f0b-4592-8aa1-d093c3cf95c3",
+    "data": [
+      {
+        "text": "I need help",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

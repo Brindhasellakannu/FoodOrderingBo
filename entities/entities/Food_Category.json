@@ -1,0 +1,9 @@
+{
+  "id": "05f105ab-d157-4f09-bf88-7c69719dc20f",
+  "name": "Food_Category",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

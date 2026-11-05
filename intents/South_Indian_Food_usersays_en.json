@@ -1,0 +1,117 @@
+[
+  {
+    "id": "cae7da47-c739-469a-b05e-e5339106f745",
+    "data": [
+      {
+        "text": "Show ",
+        "userDefined": false
+      },
+      {
+        "text": "South Indian",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "45b4724b-4c97-45d1-8b97-03651d648f77",
+    "data": [
+      {
+        "text": "I would like to order ",
+        "userDefined": false
+      },
+      {
+        "text": "South Indian",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "16d60487-396d-4156-9027-bd0070d43844",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "South Indian",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " food do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "246081fb-3670-4fff-967a-bfee71f3d31e",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "South Indian",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " dishes",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "805a793c-f9a5-477d-89a2-a39409770f8a",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "South Indian",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

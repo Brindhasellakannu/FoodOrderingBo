@@ -1,0 +1,97 @@
+[
+  {
+    "id": "1d29a870-bf7a-4f21-84b2-736f714801ff",
+    "data": [
+      {
+        "text": "My delivery address is ",
+        "userDefined": false
+      },
+      {
+        "text": "Flat 204, Al Rashidiya, Dubai",
+        "meta": "@sys.any",
+        "alias": "delivery_address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8b8b1981-da5d-47fd-b5a9-d55e03fc1f77",
+    "data": [
+      {
+        "text": "My delivery address is near the ",
+        "userDefined": false
+      },
+      {
+        "text": "supermarket",
+        "meta": "@sys.any",
+        "alias": "delivery_address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d6b6c36b-66bc-4643-bee9-126d014f7cba",
+    "data": [
+      {
+        "text": "Please deliver to ",
+        "userDefined": false
+      },
+      {
+        "text": "my location",
+        "meta": "@sys.any",
+        "alias": "delivery_address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "70dacc92-cd75-41f0-a6df-f4b6262c8f97",
+    "data": [
+      {
+        "text": "My address is ",
+        "userDefined": false
+      },
+      {
+        "text": "Dubai Al Rashidiya",
+        "meta": "@sys.any",
+        "alias": "delivery_address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b0f45e6-17ef-48ef-b083-1c1cbf461648",
+    "data": [
+      {
+        "text": "Deliver it to my ",
+        "userDefined": false
+      },
+      {
+        "text": "home",
+        "meta": "@sys.any",
+        "alias": "delivery_address",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

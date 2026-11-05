@@ -1,0 +1,50 @@
+{
+  "id": "85e6b8f3-73e5-47d2-8793-7c7df17c3299",
+  "name": "Sweets",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "29cc5940-033f-4bbf-b8c8-719eeb761152",
+          "name": "Food_Category",
+          "required": false,
+          "dataType": "@Food_Category",
+          "value": "$Food_Category",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is our Sweets menu! 🍰\n\n1. Gulab Jamun\n2. Rasmalai\n3. Chocolate Brownie\n4. Ice Cream\n5. Cheesecake\n6. Jalebi\n\nWhich sweet would you like to order?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,55 @@
+[
+  {
+    "value": "Dosa",
+    "synonyms": [
+      "Masala Dosa",
+      "Plain Dosa"
+    ]
+  },
+  {
+    "value": "Idli",
+    "synonyms": [
+      "Idli"
+    ]
+  },
+  {
+    "value": "Fried Rice",
+    "synonyms": [
+      "Chicken Fried Rice",
+      "Veg Fried Rice"
+    ]
+  },
+  {
+    "value": "Noodles",
+    "synonyms": [
+      "Noodles",
+      "Hakka Noodles"
+    ]
+  },
+  {
+    "value": "Pad Thai",
+    "synonyms": [
+      "Thai Noodles"
+    ]
+  },
+  {
+    "value": "Pizza",
+    "synonyms": [
+      "Veg Pizza",
+      "Margherita Pizza"
+    ]
+  },
+  {
+    "value": "Burger",
+    "synonyms": [
+      "Cheese Burger",
+      "Classic Burger"
+    ]
+  },
+  {
+    "value": "Gulab Jamun",
+    "synonyms": [
+      "Jamun"
+    ]
+  }
+]

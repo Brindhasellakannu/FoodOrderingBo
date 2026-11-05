@@ -1,0 +1,125 @@
+[
+  {
+    "id": "0f652913-bf47-4e5a-a918-42cdf0b66dea",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese food",
+        "meta": "@Food_Category",
+        "alias": "Food_Category",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "006d7af4-6c4f-41d8-8924-0eba6640fbbb",
+    "data": [
+      {
+        "text": "I want to see your food options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bbeda70-d787-4f30-98f9-a612a73d37c6",
+    "data": [
+      {
+        "text": "Give me your food list",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5fbd606f-c1a4-4542-95a9-edea15257ef7",
+    "data": [
+      {
+        "text": "What can I order?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05d4791c-af4e-432d-98bc-9aded1a23d4a",
+    "data": [
+      {
+        "text": "Show available food items",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "93dc52da-6895-4b1c-aad8-56654f8d6cfd",
+    "data": [
+      {
+        "text": "I want to explore the menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef65cea7-622e-4f39-9315-4235f8860838",
+    "data": [
+      {
+        "text": "Can I see the menu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a1f6064-3cc4-490b-83a1-8219aaaca9e9",
+    "data": [
+      {
+        "text": "What food do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20904e90-7787-43a7-9193-f6ae2639eaf9",
+    "data": [
+      {
+        "text": "Show me the menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

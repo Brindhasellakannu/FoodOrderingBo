@@ -1,0 +1,50 @@
+{
+  "id": "741eee47-e0e4-4bf5-a414-34795fc5e4f5",
+  "name": "North_Indian_Food",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bf39022c-091b-43d8-ab1d-8314f6f6ce0d",
+          "name": "food_category",
+          "required": false,
+          "dataType": "@Food_Category",
+          "value": "$food_category",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here is our North Indian Food menu! 🥘\n\nPaneer Butter Masala\n\nButter Naan\n\nChole Bhature\n\nDal Makhani\n\nAloo Paratha\n\nVegetable Biryani\n\nWhich dish would you like to order?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

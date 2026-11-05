@@ -1,0 +1,45 @@
+{
+  "id": "e4482b78-0eac-48b7-80f5-75287b2f20a4",
+  "name": "Order_Confirmation",
+  "auto": true,
+  "contexts": [
+    "address_details"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "order_completed",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you for choosing FoodOrderingBot! 🎉",
+            "Your order request has been received successfully.",
+            "Our team will contact you shortly to confirm your order.",
+            "Thank you for ordering with us! ❤️"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

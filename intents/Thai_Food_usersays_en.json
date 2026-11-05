@@ -1,0 +1,109 @@
+[
+  {
+    "id": "618bbb99-6514-47ab-b200-6777b40eb2fa",
+    "data": [
+      {
+        "text": "Show ",
+        "userDefined": false
+      },
+      {
+        "text": "Thai food",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ed72b0d-cc4b-40dd-98fb-14030966a723",
+    "data": [
+      {
+        "text": "Can I see the ",
+        "userDefined": false
+      },
+      {
+        "text": "Thai food",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " menu?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0a60f273-40e2-4f8b-a62f-a8ebadada46b",
+    "data": [
+      {
+        "text": "I would like to order ",
+        "userDefined": false
+      },
+      {
+        "text": "Thai food",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4863342b-e3c5-4b85-a3f7-820d846b4b54",
+    "data": [
+      {
+        "text": "What ",
+        "userDefined": false
+      },
+      {
+        "text": "Thai food",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      },
+      {
+        "text": " do you have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbde1aef-8137-410a-b77d-d3747975ff8c",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "Thai food",
+        "meta": "@Food_Category",
+        "alias": "food_category",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
